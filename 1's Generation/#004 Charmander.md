@@ -9,9 +9,9 @@ The flame can be used as an indication of Charmander's health and mood, burning 
 
 
 |          | Min  					| Standard 			| Max			|
-|----------| -------------- | ------------- |---------|
-| Height	 | 0,36 m		| 0,60 m			| 0,84 m 	|
-|Weight 	| 2,55 kg    			| 8,50 kg 			| 14,45 kg|
+|----------| -------------- 		| ------------- 	|---------		|
+|Height	   | 0,36 m					| 0,60 m			| 0,84 m	 	|
+|Weight    | 2,55 kg    			| 8,50 kg 			| 14,45 kg		|
 
 Theory :
 Charamanders lives in group in volcanic area and in places where it rain very little as rain can be fatal for them.It is a natural instinc to fear water and especially rain.However if it dizzles u can possibly see them outside and see some steam coming out near their tail.
